@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 天气助手 (Weather Agent)
 
 ## 功能描述
@@ -30,3 +31,6 @@
 
 - 当前使用模拟天气数据，如需接入真实API，请修改 `get_weather` 函数
 - 代码兼容 Windows/Linux/macOS 系统
+=======
+# weather
+>>>>>>> 64afb79b48491151b9615b254045cb79e8dd9dda
